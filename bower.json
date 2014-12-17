@@ -1,0 +1,22 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MikeMilansky/HRhelper",
+  "authors": [
+    "Mike Milansky <mikemilansky@gmail.com>"
+  ],
+  "moduleType": [
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
